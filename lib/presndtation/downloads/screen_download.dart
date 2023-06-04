@@ -47,7 +47,7 @@ class SmartDownloads extends StatelessWidget {
       children: const [
         Icon(Icons.settings, color: kwhitecolor),
         kwidth,
-        Text("NOt Smart Downloads")
+        Text("Smart Downloads")
       ],
     );
   }
