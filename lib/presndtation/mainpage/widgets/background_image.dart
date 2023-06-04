@@ -31,7 +31,7 @@ class backgroundColor extends StatelessWidget {
             children: [
               const coustem_button(titel: "My List", iconn: Icons.add),
               home_center(),
-              const coustem_button(titel: "info", iconn: Icons.info),
+              const coustem_button(titel: "infommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm", iconn: Icons.info),
             ],
           ),
         )
@@ -45,7 +45,7 @@ class backgroundColor extends StatelessWidget {
             backgroundColor: MaterialStateProperty.all(kwhitecolor)),
         onPressed: () {},
         icon: const Icon(
-          Icons.play_arrow,
+          Icons.play_arrow_rounded,
           color: Colors.black,
         ),
         label: const Padding(
